@@ -41,7 +41,7 @@ def bow(): # if the user picks bow_arrow this is what will happen next
         print("You raise you bow and draw your arrow back! You release your arrow sending it straight through the troll! You exit the cave.")
         sleep(3)
         stage_2() # call the stage_2 function to continue the story
-    elif fightTroll == "run"
+    elif fightTroll == "run":
         print("You run as fast as you can around the troll and exit the cave.")
         sleep(3)
         stage_2() # call the stage_2 function to continue the story
